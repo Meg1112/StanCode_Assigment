@@ -1,0 +1,56 @@
+1-1-east-inf
+streets 17
+
+beepers 1 1 1
+beepers 2 1 1
+beepers 1 5 1
+beepers 2 5 1
+beepers 4 5 1
+beepers 5 5 1
+beepers 1 9 1
+beepers 1 13 1
+beepers 3 13 1
+beepers 4 13 1
+beepers 5 13 1
+beepers 3 17 1
+
+
+
+eastwestwalls 5 1 1
+eastwestwalls 6 2 2
+eastwestwalls 7 3 3
+eastwestwalls 6 4 4
+eastwestwalls 5 5 5
+eastwestwalls 6 6 6
+eastwestwalls 7 7 7
+eastwestwalls 6 8 8
+eastwestwalls 5 9 9
+eastwestwalls 6 10 10
+eastwestwalls 7 11 11
+eastwestwalls 6 12 12
+eastwestwalls 5 13 13
+eastwestwalls 6 14 14
+eastwestwalls 7 15 15
+eastwestwalls 6 16 16
+eastwestwalls 5 17 17
+
+
+northsouthwalls 1 6 6
+northsouthwalls 2 7 7
+northsouthwalls 3 7 7
+northsouthwalls 4 6 6
+northsouthwalls 5 6 6
+northsouthwalls 6 7 7
+northsouthwalls 7 7 7
+northsouthwalls 8 6 6
+northsouthwalls 9 6 6
+northsouthwalls 10 7 7
+northsouthwalls 11 7 7
+northsouthwalls 12 6 6
+northsouthwalls 13 6 6
+northsouthwalls 14 7 7
+northsouthwalls 15 7 7
+northsouthwalls 16 6 6
+northsouthwalls 17 1 5
+
+
